@@ -2,7 +2,7 @@
 #include <cstdlib>  // library for srand() and rand()
 #include <ctime>  // library for time() but didn't work
 #include <string> // library for string datatype and methods
-p // library for srand() synchronization seed
+// library for srand() synchronization seed
 
 using namespace std;
 
