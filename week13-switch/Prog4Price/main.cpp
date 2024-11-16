@@ -2,6 +2,8 @@
 using namespace std;
 
 int main(){
+  cout << "Name: Samuel Wong - Program Name: Switch Prog 4 Price - Date: 11/10/2024" << endl;
+  
   int age = 0;
   cout << "Enter age to see ticket price: ";
   cin >> age;
